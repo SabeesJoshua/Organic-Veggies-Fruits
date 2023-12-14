@@ -1,0 +1,29 @@
+body{
+    background-image: url("C:\Users\sabee\OneDrive\Desktop\reactjs\day1\proj-react\src\image\vege.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.904);
+    height: auto;
+    width: auto;
+}
+ul{
+    list-style-type: none;
+    padding-left: 1100px;
+}
+li{
+    display: inline-block;
+    padding: 30px;
+}
+li:hover{
+    background-color: rgb(132, 255, 0);
+    transition: 0.4s ease;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    color: black;
+}
