@@ -1,0 +1,30 @@
+.about{
+    text-align: center;
+    padding-top: 15px;
+    font-family: Arial;
+}
+.about1{
+    font-size: 45px;
+    color: rgb(35, 69, 0);
+    font-family: 'Times New Roman';
+}
+.about3{
+    font-size: x-large;
+    color: #fff;
+    font-weight: 100;
+    line-height: 40px;
+}
+.about4{
+    color: #370e0e;
+}
+.end{
+    float: right;
+    padding-top: 30px;
+    padding-right: 120px;
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+.about2{
+    border: none;
+}

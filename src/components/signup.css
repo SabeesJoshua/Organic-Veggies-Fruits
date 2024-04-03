@@ -1,28 +1,33 @@
+/*body{
+    background-image: url("C:\Users\sabee\OneDrive\Desktop\reactjs\day1\proj-react\src\image\vege.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}*/
 .form1{
     height: 500px;
     width: 500px;
+    padding-top: 15px;
     align-items: center;
-    padding-left: 510px;
+    padding-left: 760px;
 }
 .form2{
     width: auto;
     height: 500px;
-    background: rgba(0, 0, 0, 0.73);
+    background: rgba(0, 0, 0, 0.550);
     text-align: center;
     border-radius: 10px;
     padding: 35px;
 }
 .head{
-    font-family: sans-serif;
+    font-family: 'Times New Roman';
     color:rgb(132, 255, 0);
-    font-size: 22px;
-    background-color: #ffffff4e;
+    font-size: 30px;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
 }
 label{
-    font-size: 18px ;
+    font-size: 20px ;
     color: rgb(132, 255, 0);
     font-family: sans-serif;
 }
@@ -35,7 +40,7 @@ label{
     border-right: none;
     border-left: none;
     color: #fff;
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 1px;
     margin-top: 30px;
     font-family: sans-serif;
@@ -50,7 +55,7 @@ label{
     background-color: rgb(132, 255, 0);
     border: none;
     margin-top: 30px;
-    font-size: 18px;
+    font-size: 22px;
     border-radius: 10px;
     color: #fff;
     transition: 0.4s ease;
@@ -60,12 +65,14 @@ label{
     color: rgb(0, 0, 0);
 }
 p{
+    font-size: 18px;
     color: rgb(132, 255, 0);
 }
-a{
+.l{
+    font-size: 18px;
     color: white;
     text-decoration: none;
 }
-a:hover{
-    color: rgb(255, 60, 0);
+.l:hover{
+    color: rgb(255, 200, 0);
 }

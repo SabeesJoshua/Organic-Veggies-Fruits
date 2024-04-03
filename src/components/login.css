@@ -1,23 +1,27 @@
+/*body{
+    background-image: url("C:\Users\sabee\OneDrive\Desktop\reactjs\day1\proj-react\src\image\vege.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}*/
 .form{
     height: 490px;
     width: 490px;
     align-items: center;
-    padding: 45px;
-    padding-left: 510px;
+    padding-top: 60px;
+    padding-left: 760px;
 }
 form{
     width: auto;
     height: auto;
-    background: rgba(0, 0, 0, 0.73);
+    background: rgba(0, 0, 0, 0.550);
     text-align: center;
     border-radius: 10px;
     padding: 60px;
 }
 .sig{
-    font-family: sans-serif;
+    font-family: 'Times New Roman';
     color:rgb(132, 255, 0);
-    font-size: 22px;
-    background-color: #ffffff4e;
+    font-size: 30px;
     border-radius: 10px;
     margin: 2px;
     padding: 8px;
@@ -31,7 +35,7 @@ form{
     border-right: none;
     border-left: none;
     color: #fff;
-    font-size: 15px;
+    font-size: 18px;
     letter-spacing: 1px;
     margin-top: 30px;
     font-family: sans-serif;
@@ -40,28 +44,30 @@ form{
     color: #fff;
     font-family: Arial;
 }
-button{
+.bt{
     width: 240px;
     height: 40px;
     background-color: rgb(132, 255, 0);
     border: none;
     margin-top: 30px;
-    font-size: 18px;
+    font-size: 22px;
     border-radius: 10px;
     color: #fff;
     transition: 0.4s ease;
 }
-button:hover{
+.bt:hover{
     background-color: #fff;
     color: rgb(0, 0, 0);
 }
 p{
     color: rgb(132, 255, 0);
+    font-size: 18px;
 }
-a{
+.l{
+    font-size: 18px;
     color: white;
     text-decoration: none;
 }
-a:hover{
-    color: rgb(255, 60, 0);
+.l:hover{
+    color: rgb(255, 200, 0);
 }

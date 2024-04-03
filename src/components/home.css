@@ -1,7 +1,52 @@
-.h22{
-    padding: 230px;
-    color:  rgba(0, 0, 0, 0.874);
+body{
+    background-image: url("C:\Users\sabee\Desktop\reactjs\day1\proj-react\src\image\vege1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.content{
     text-align: center;
+    padding-top: 10px;
+    width: auto;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+    padding-left: 500px;
+}
+.par{
+    color: #370e0e;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 22px;
+}
+.h11{
+    font-family: 'Times New Roman';
     font-size: 50px;
-    font-family: sans-serif;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2.5px;
+    color: rgb(35, 69, 0);
+}
+.span{
+    color: rgb(36, 46, 25);
+}
+.li1{
+    padding-left: 25px;
+}
+.cn{
+    width: 240px;
+    height: 40px;
+    background-color: rgb(132, 255, 0);
+    border: none;
+    font-size: 22px;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.4s ease;
+}
+.cn:hover{
+    background-color: #fff;
+    color: rgb(0, 0, 0);
 }
